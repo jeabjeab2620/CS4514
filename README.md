@@ -11,7 +11,7 @@ This is a final year project for implementing p2p payment application using visi
 ### 1. Set Up Database and Authority Server
 1. Set up MS SQL database server.
 2. Use [setup_database.sql](setup_database.sql) to inject the database schema
-3. Change environment variables to connect to the database in ./authority server/.env<br>
+3. Change environment variables to connect to the database in [./authority server/.env](./authority_server/.env)<br>
 ```
 db_server = address to the database server
 db_database = database name
@@ -19,7 +19,7 @@ db_username = username to connect to the database
 db_password = password to connect to the database
 db_driver = driver used for python to connect to SQL server
 ```
-3. install required packages for authority server using requirements.txt
+3. install required packages for authority server using [requirements.txt](requirements.txt)
 ```bash
 pip install -r requirements.txt
 ```
