@@ -22,3 +22,12 @@ db_driver = driver used for python to connect to SQL server
 ```bash
 pip install -r requirements.txt
 ```
+
+### 2. Install Application on Android Device
+1. Using Android Studio, open "./VLC P2P Payment/MyApplication/" directory
+2. After opening the project, open "app/java/com.example.myapplication/APIRequest.java"
+3. Modify the server address in the code to point to the authority server's address with port 8000
+```java
+public class APIRequest {
+    private String server = "http://{your server IP address}:8000";
+```
