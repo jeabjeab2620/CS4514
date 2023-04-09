@@ -9,11 +9,9 @@ This is a final year project for implementing p2p payment application using visi
 
 ## Installation
 1. Set up MS SQL database server.
-2. Change environment variables to connect to the database in ./authority server/.env
-`
-db_server= address to the database server
-db_database= database name
-db_username= username to connect to the database
-db_password= password to connect to the database
-db_driver= driver used for python to connect to SQL server
-`
+2. Change environment variables to connect to the database in ./authority server/.env<br>
+` db_server= address to the database server<br>
+` db_database= database name<br>
+` db_username= username to connect to the database<br>
+` db_password= password to connect to the database<br>
+` db_driver= driver used for python to connect to SQL server<br>
