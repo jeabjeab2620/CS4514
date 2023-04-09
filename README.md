@@ -10,7 +10,7 @@ This is a final year project for implementing p2p payment application using visi
 ## Installation
 ### 1. Set Up Database and Authority Server
 1. Set up MS SQL database server.
-2. Use ./setup_database.sql to inject the database schema
+2. Use setup_database.sql[setup_database.sql] to inject the database schema
 3. Change environment variables to connect to the database in ./authority server/.env<br>
 ```
 db_server = address to the database server
