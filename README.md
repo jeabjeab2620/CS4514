@@ -34,3 +34,5 @@ public class APIRequest {
 ...
 ```
 4. Connect Android device to the computer and run the application
+
+## Usage
