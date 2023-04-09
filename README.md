@@ -11,7 +11,7 @@ This is a final year project for implementing p2p payment application using visi
 ### 1. Set Up Database and Authority Server
 1. Set up MS SQL database server.
 2. Use [setup_database.sql](setup_database.sql) to inject the database schema
-3. Change environment variables to connect to the database in [./authority server/.env]("authority&#32;server/.env")
+3. Change environment variables to connect to the database in [./authority server/.env](authority&#32;server/.env)
 ```
 db_server = address to the database server
 db_database = database name
@@ -25,7 +25,7 @@ pip install -r requirements.txt
 ```
 
 ### 2. Install Application on Android Device
-1. Using Android Studio, open [./VLC P2P Payment/MyApplication/](VLC P2P Payment/MyApplication/) directory
+1. Using Android Studio, open [./VLC P2P Payment/MyApplication/](VLC&#32;P2P&#32;Payment/MyApplication/) directory
 2. After opening the project, open "app/java/com.example.myapplication/APIRequest.java"
 3. Modify the server address in the code to point to the authority server's address with port 8000
 ```java
