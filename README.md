@@ -1,4 +1,4 @@
-# Final-Year-Project
+# Final Year Project (P2P Payment System using Light Communication)
 This is a final year project for implementing p2p payment application using visible light communication for android.
 
 ## Environment
@@ -30,5 +30,6 @@ pip install -r requirements.txt
 ```java
 public class APIRequest {
     private String server = "http://{your server IP address}:8000";
-                                ...
+...
 ```
+4. Connect Android device to the computer and run the application
