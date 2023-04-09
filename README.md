@@ -8,7 +8,7 @@ This is a final year project for implementing p2p payment application using visi
 - 2 x Samsung S20 FE(SM-G7810) Android Version 13
 
 ## Installation
-### Set Up Database and Authority Server
+### 1. Set Up Database and Authority Server
 1. Set up MS SQL database server.
 2. Change environment variables to connect to the database in ./authority server/.env<br>
 ```
