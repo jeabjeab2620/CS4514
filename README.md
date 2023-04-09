@@ -17,3 +17,7 @@ db_username = username to connect to the database
 db_password = password to connect to the database
 db_driver = driver used for python to connect to SQL server
 ```
+3. install required packages for authority server using requirements.txt
+```bash
+pip install -r requirements.txt
+```
