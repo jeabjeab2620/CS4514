@@ -26,7 +26,7 @@ pip install -r requirements.txt
 
 ### 2. Install Application on Android Device
 1. Using Android Studio, open [./VLC P2P Payment/MyApplication/](VLC&#32;P2P&#32;Payment/MyApplication/) directory
-2. After opening the project, open [app/java/com.example.myapplication/APIRequest.java](VLC&#32;P2P&#32;Payment/MyApplication/app/java/com.example.myapplication/APIRequest.java)
+2. After opening the project, open [app/java/com.example.myapplication/APIRequest.java](VLC&#32;P2P&#32;Payment/MyApplication/app/src/main/java/com/example/myapplication/APIRequest.java)
 3. Modify the server address in the code to point to the authority server's address with port 8000
 ```java
 public class APIRequest {
