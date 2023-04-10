@@ -45,3 +45,8 @@ python3 main.py
 ### 2. Run the Android Application
 1. Tap on the application on the main screen
 ![main UI](img/mobile_main.jpg)
+2. Application Main
+![app UI](img/app_main.jpg)
+### 3. Receive Money
+1. Tap on Receive button
+![receive_1](img/receive_1.jpg)
