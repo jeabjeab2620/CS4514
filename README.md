@@ -57,3 +57,11 @@ python3 main.py
 ![receive_3](img/receive_3.jpg)
 5. After completion, check the transaction result
 ![receive_4](img/receive_4.jpg)
+### 4. Send Money
+1. Align the camera with the receiver's camera
+2. Tap on the send button on the main page
+![send_1](img/send_1.jpg)
+3. Receive data through VLC
+![send_2](img/send_2.jpg)
+4. After checking payment detail, tap on Confirm to send moeny, or Reject to reject the transfer request
+![send_3](img/send_3.jpg)
