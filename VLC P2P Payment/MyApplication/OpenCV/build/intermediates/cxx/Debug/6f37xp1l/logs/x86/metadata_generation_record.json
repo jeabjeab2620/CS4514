@@ -1,0 +1,170 @@
+[
+  {
+    "level_": 0,
+    "message_": "Start JSON generation. Platform version: 21 min SDK version: x86",
+    "file_": "C:\\Users\\Hyeon Kim\\Desktop\\Study\\FYP\\project_code\\VLC P2P Payment\\MyApplication\\OpenCV\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1066896181
+  },
+  {
+    "level_": 0,
+    "message_": "rebuilding JSON C:\\Users\\Hyeon Kim\\Desktop\\Study\\FYP\\project_code\\VLC P2P Payment\\MyApplication\\OpenCV\\.cxx\\Debug\\6f37xp1l\\x86\\android_gradle_build.json due to:",
+    "file_": "C:\\Users\\Hyeon Kim\\Desktop\\Study\\FYP\\project_code\\VLC P2P Payment\\MyApplication\\OpenCV\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -104650312
+  },
+  {
+    "level_": 0,
+    "message_": "- expected json C:\\Users\\Hyeon Kim\\Desktop\\Study\\FYP\\project_code\\VLC P2P Payment\\MyApplication\\OpenCV\\.cxx\\Debug\\6f37xp1l\\x86\\android_gradle_build.json file is not present, will remove stale json folder",
+    "file_": "C:\\Users\\Hyeon Kim\\Desktop\\Study\\FYP\\project_code\\VLC P2P Payment\\MyApplication\\OpenCV\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1454897810
+  },
+  {
+    "level_": 0,
+    "message_": "- missing previous command file C:\\Users\\Hyeon Kim\\Desktop\\Study\\FYP\\project_code\\VLC P2P Payment\\MyApplication\\OpenCV\\.cxx\\Debug\\6f37xp1l\\x86\\metadata_generation_command.txt, will remove stale json folder",
+    "file_": "C:\\Users\\Hyeon Kim\\Desktop\\Study\\FYP\\project_code\\VLC P2P Payment\\MyApplication\\OpenCV\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -594702704
+  },
+  {
+    "level_": 0,
+    "message_": "- command changed from previous, will remove stale json folder",
+    "file_": "C:\\Users\\Hyeon Kim\\Desktop\\Study\\FYP\\project_code\\VLC P2P Payment\\MyApplication\\OpenCV\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -766941487
+  },
+  {
+    "level_": 0,
+    "message_": "created folder \u0027C:\\Users\\Hyeon Kim\\Desktop\\Study\\FYP\\project_code\\VLC P2P Payment\\MyApplication\\OpenCV\\.cxx\\Debug\\6f37xp1l\\x86\u0027",
+    "file_": "C:\\Users\\Hyeon Kim\\Desktop\\Study\\FYP\\project_code\\VLC P2P Payment\\MyApplication\\OpenCV\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1351309630
+  },
+  {
+    "level_": 0,
+    "message_": "executing cmake @echo off\n\"C:\\\\Users\\\\Hyeon Kim\\\\AppData\\\\Local\\\\Android\\\\Sdk\\\\cmake\\\\3.18.1\\\\bin\\\\cmake.exe\" ^\n  \"-HC:\\\\Users\\\\Hyeon Kim\\\\Desktop\\\\Study\\\\FYP\\\\project_code\\\\VLC P2P Payment\\\\MyApplication\\\\OpenCV\\\\libcxx_helper\" ^\n  \"-DCMAKE_SYSTEM_NAME\u003dAndroid\" ^\n  \"-DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON\" ^\n  \"-DCMAKE_SYSTEM_VERSION\u003d21\" ^\n  \"-DANDROID_PLATFORM\u003dandroid-21\" ^\n  \"-DANDROID_ABI\u003dx86\" ^\n  \"-DCMAKE_ANDROID_ARCH_ABI\u003dx86\" ^\n  \"-DANDROID_NDK\u003dC:\\\\Users\\\\Hyeon Kim\\\\AppData\\\\Local\\\\Android\\\\Sdk\\\\ndk\\\\23.1.7779620\" ^\n  \"-DCMAKE_ANDROID_NDK\u003dC:\\\\Users\\\\Hyeon Kim\\\\AppData\\\\Local\\\\Android\\\\Sdk\\\\ndk\\\\23.1.7779620\" ^\n  \"-DCMAKE_TOOLCHAIN_FILE\u003dC:\\\\Users\\\\Hyeon Kim\\\\AppData\\\\Local\\\\Android\\\\Sdk\\\\ndk\\\\23.1.7779620\\\\build\\\\cmake\\\\android.toolchain.cmake\" ^\n  \"-DCMAKE_MAKE_PROGRAM\u003dC:\\\\Users\\\\Hyeon Kim\\\\AppData\\\\Local\\\\Android\\\\Sdk\\\\cmake\\\\3.18.1\\\\bin\\\\ninja.exe\" ^\n  \"-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003dC:\\\\Users\\\\Hyeon Kim\\\\Desktop\\\\Study\\\\FYP\\\\project_code\\\\VLC P2P Payment\\\\MyApplication\\\\OpenCV\\\\build\\\\intermediates\\\\cxx\\\\Debug\\\\6f37xp1l\\\\obj\\\\x86\" ^\n  \"-DCMAKE_RUNTIME_OUTPUT_DIRECTORY\u003dC:\\\\Users\\\\Hyeon Kim\\\\Desktop\\\\Study\\\\FYP\\\\project_code\\\\VLC P2P Payment\\\\MyApplication\\\\OpenCV\\\\build\\\\intermediates\\\\cxx\\\\Debug\\\\6f37xp1l\\\\obj\\\\x86\" ^\n  \"-DCMAKE_BUILD_TYPE\u003dDebug\" ^\n  \"-BC:\\\\Users\\\\Hyeon Kim\\\\Desktop\\\\Study\\\\FYP\\\\project_code\\\\VLC P2P Payment\\\\MyApplication\\\\OpenCV\\\\.cxx\\\\Debug\\\\6f37xp1l\\\\x86\" ^\n  -GNinja ^\n  \"-DANDROID_STL\u003dc++_shared\"\n",
+    "file_": "C:\\Users\\Hyeon Kim\\Desktop\\Study\\FYP\\project_code\\VLC P2P Payment\\MyApplication\\OpenCV\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1570740052
+  },
+  {
+    "level_": 0,
+    "message_": "@echo off\n\"C:\\\\Users\\\\Hyeon Kim\\\\AppData\\\\Local\\\\Android\\\\Sdk\\\\cmake\\\\3.18.1\\\\bin\\\\cmake.exe\" ^\n  \"-HC:\\\\Users\\\\Hyeon Kim\\\\Desktop\\\\Study\\\\FYP\\\\project_code\\\\VLC P2P Payment\\\\MyApplication\\\\OpenCV\\\\libcxx_helper\" ^\n  \"-DCMAKE_SYSTEM_NAME\u003dAndroid\" ^\n  \"-DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON\" ^\n  \"-DCMAKE_SYSTEM_VERSION\u003d21\" ^\n  \"-DANDROID_PLATFORM\u003dandroid-21\" ^\n  \"-DANDROID_ABI\u003dx86\" ^\n  \"-DCMAKE_ANDROID_ARCH_ABI\u003dx86\" ^\n  \"-DANDROID_NDK\u003dC:\\\\Users\\\\Hyeon Kim\\\\AppData\\\\Local\\\\Android\\\\Sdk\\\\ndk\\\\23.1.7779620\" ^\n  \"-DCMAKE_ANDROID_NDK\u003dC:\\\\Users\\\\Hyeon Kim\\\\AppData\\\\Local\\\\Android\\\\Sdk\\\\ndk\\\\23.1.7779620\" ^\n  \"-DCMAKE_TOOLCHAIN_FILE\u003dC:\\\\Users\\\\Hyeon Kim\\\\AppData\\\\Local\\\\Android\\\\Sdk\\\\ndk\\\\23.1.7779620\\\\build\\\\cmake\\\\android.toolchain.cmake\" ^\n  \"-DCMAKE_MAKE_PROGRAM\u003dC:\\\\Users\\\\Hyeon Kim\\\\AppData\\\\Local\\\\Android\\\\Sdk\\\\cmake\\\\3.18.1\\\\bin\\\\ninja.exe\" ^\n  \"-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003dC:\\\\Users\\\\Hyeon Kim\\\\Desktop\\\\Study\\\\FYP\\\\project_code\\\\VLC P2P Payment\\\\MyApplication\\\\OpenCV\\\\build\\\\intermediates\\\\cxx\\\\Debug\\\\6f37xp1l\\\\obj\\\\x86\" ^\n  \"-DCMAKE_RUNTIME_OUTPUT_DIRECTORY\u003dC:\\\\Users\\\\Hyeon Kim\\\\Desktop\\\\Study\\\\FYP\\\\project_code\\\\VLC P2P Payment\\\\MyApplication\\\\OpenCV\\\\build\\\\intermediates\\\\cxx\\\\Debug\\\\6f37xp1l\\\\obj\\\\x86\" ^\n  \"-DCMAKE_BUILD_TYPE\u003dDebug\" ^\n  \"-BC:\\\\Users\\\\Hyeon Kim\\\\Desktop\\\\Study\\\\FYP\\\\project_code\\\\VLC P2P Payment\\\\MyApplication\\\\OpenCV\\\\.cxx\\\\Debug\\\\6f37xp1l\\\\x86\" ^\n  -GNinja ^\n  \"-DANDROID_STL\u003dc++_shared\"\n",
+    "file_": "C:\\Users\\Hyeon Kim\\Desktop\\Study\\FYP\\project_code\\VLC P2P Payment\\MyApplication\\OpenCV\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1046351275
+  },
+  {
+    "level_": 0,
+    "message_": "Exiting generation of C:\\Users\\Hyeon Kim\\Desktop\\Study\\FYP\\project_code\\VLC P2P Payment\\MyApplication\\OpenCV\\.cxx\\Debug\\6f37xp1l\\x86\\compile_commands.json.bin normally",
+    "file_": "C:\\Users\\Hyeon Kim\\Desktop\\Study\\FYP\\project_code\\VLC P2P Payment\\MyApplication\\OpenCV\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1405527544
+  },
+  {
+    "level_": 0,
+    "message_": "done executing cmake",
+    "file_": "C:\\Users\\Hyeon Kim\\Desktop\\Study\\FYP\\project_code\\VLC P2P Payment\\MyApplication\\OpenCV\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1079287738
+  },
+  {
+    "level_": 0,
+    "message_": "write command file C:\\Users\\Hyeon Kim\\Desktop\\Study\\FYP\\project_code\\VLC P2P Payment\\MyApplication\\OpenCV\\.cxx\\Debug\\6f37xp1l\\x86\\metadata_generation_command.txt",
+    "file_": "C:\\Users\\Hyeon Kim\\Desktop\\Study\\FYP\\project_code\\VLC P2P Payment\\MyApplication\\OpenCV\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1474875646
+  },
+  {
+    "level_": 0,
+    "message_": "JSON generation completed without problems",
+    "file_": "C:\\Users\\Hyeon Kim\\Desktop\\Study\\FYP\\project_code\\VLC P2P Payment\\MyApplication\\OpenCV\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 858785346
+  }
+]
