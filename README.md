@@ -48,5 +48,8 @@ python3 main.py
 2. Application Main
 ![app UI](img/app_main.jpg)
 ### 3. Receive Money
-1. Tap on Receive button
+1. Login to the application first
+2. Tap on Receive button
 ![receive_1](img/receive_1.jpg)
+3. Enter the amount and tap confirm
+![receive_2](img/receive_2.jpg)
