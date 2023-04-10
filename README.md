@@ -36,3 +36,5 @@ public class APIRequest {
 4. Connect Android device to the computer and run the application
 
 ## Usage
+### 1. Run the Authority Server
+### 2. Run the Application
