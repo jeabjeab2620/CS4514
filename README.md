@@ -38,6 +38,6 @@ public class APIRequest {
 ## Usage
 ### 1. Run the Authority Server
 ```bash
-python3 [main.py](./authority server/main.py)
+python3 [main.py](authority&#32;server/main.py)
 ```
 ### 2. Run the Application
