@@ -53,3 +53,5 @@ python3 main.py
 ![receive_1](img/receive_1.jpg)
 3. Enter the amount and tap confirm
 ![receive_2](img/receive_2.jpg)
+4. After camera starts, align it with the payer's camera
+![receive_3](img/receive_3.jpg)
