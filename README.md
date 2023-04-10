@@ -41,4 +41,4 @@ Run the [main.py](authority&#32;server/main.py) to start the FastAPI server
 ```bash
 python3 main.py
 ```
-### 2. Run the Application
+### 2. Run the Android Application
