@@ -43,3 +43,5 @@ python3 main.py
 ```
 ![Run Server](img/run_server.png)
 ### 2. Run the Android Application
+1. Tap on the application on the main screen
+![main UI](img/mobile_main.jpg)
