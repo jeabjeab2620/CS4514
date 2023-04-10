@@ -55,3 +55,5 @@ python3 main.py
 ![receive_2](img/receive_2.jpg)
 4. After camera starts, align it with the payer's camera
 ![receive_3](img/receive_3.jpg)
+5. After completion, check the transaction result
+![receive_4](img/receive_4.jpg)
